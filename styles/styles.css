@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Borel&family=Didact+Gothic&family=Edu+SA+Beginner&family=Fredericka+the+Great&family=Handjet&family=Russo+One&display=swap');
+
+:root{
+  --bs-body-bg: #F2F1EB;
+}
+
+p{
+  text-align: left;
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 16.5px;
+  color: #1A1414;
+  margin: 0 40px 0 40px;
+  padding-bottom: 20px;
+  text-indent: 25px;
+}
+
+h1{
+  padding: 150px 0 25px 0;
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 63px;
+  color: #2983CC;
+  text-align: center;
+  position: relative;
+}
+
+.bannerheader{
+  height: 375px;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.bannerheader::before{
+  content: '';
+  background-image: url('../images/animalcrossingbanner2.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+  background-position: center;
+  opacity: 0.4;
+}
+
+#float-left{
+  width: 500px;
+  height: 300px;
+  opacity: 0.78;
+  float: left;
+  margin-right: 10px;
+  margin: 0 20px 0 40px;
+}
+
+#nook{
+  padding-top: 80px;
+}
+
+.fancy{
+  font-family: 'Fredericka the Great', cursive;
+  color: #3894A6;
+  margin-bottom: 40px;
+}
+
+h2, h3, h4, h5, h6{
+  font-family: 'Russo One', sans-serif;
+  color: #87C46A;
+  margin: 0 0 20px 40px;
+}
+
+#topheader{
+  margin-top: 30px;
+}
+
+#float-right{
+  float: right;
+  height: 450px;
+  width: 550px;
+  margin: 0px 40px 25px 25px;
+}
+
+#float-right3{
+  float: left;
+  height: 300px;
+  width: 450px;
+  margin: 0px 40px 0px 25px;
+}
+
+#float-right7{
+  float: right;
+  height: 375px;
+  width: 480px;
+  margin: 0px 40px 60px 25px;
+}
+
+.centertext h3{
+  text-align: left;
+  margin: 20px 40px 20px 40px;
+}
+
+.pagebottom{
+  background-color: #E2EBF3;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.pagebottom p{
+  margin: 0 200px 0 200px;
+  font-family: 'Edu SA Beginner', cursive;
+  font-size: 18px;
+  letter-spacing: 0.2px;
+  color: #3781BE;
+}
+
+#tomnooknote p{
+  font-family: 'Edu SA Beginner', cursive;
+  color: #5A7850;
+  margin: 5px;
+}
+
+#tomnooknote{
+  border: 20px solid #F2F1EB;
+}
+
+#footer p{
+  color: #F2F1EB;
+}
+
+.logo{
+  max-height: 50px;
+  max-width: 50px;
+  margin-left: 96px;
+}
+
+#float-right1{
+  float: right;
+  height: 300px;
+  width: 450px;
+  margin: 0px 40px 0px 25px;
+}
+
+.colums{
+  margin-left: 157px;
+}
+
+.col-5 h2{
+  color: #3781BE;
+}
+
+.col-5 p{
+  font-family: 'Edu SA Beginner', cursive;
+}
+
+#villagers{
+  float: left;
+  max-width: 25%;
+  margin: 3s0px 20px 5px 0;
+}
+
+#middle1{
+  margin-left: 100px;
+}
+
+#middle2{
+  margin-left: 150px;
+  color: #39A78D;
+}
+
+#float-left2{
+  width: 275px;
+  height: 225px;
+  float: left;
+  margin-right: 10px;
+  margin: 0 25px 50px 40px;
+}
+
+#fancy2{
+  color: #E04E2D;
+  background-color: #CBE1F2;
+  text-align: center;
+  margin-left: 360px;
+   margin-right: 360px;
+   padding: 40px;
+}
+
+.carousel-card h5{
+  margin: 30px;
+}
+
+.carousel-card p{
+  margin-bottom: 40px;
+}
+
+#purimg2, #purimg3{
+  width: 350px;
+  height: 350px;
+}
+
+#purimg3{
+  margin-bottom: 40px;
+}
+
+#headercenter{
+  text-align: center;
+  color: #39A78D;
+}
+
+#big{
+  font-size: 30px;
+}
+
+
