@@ -13,11 +13,11 @@ I also notice that using bootstrap, floating an image worked better then just ha
 For this navbar I used a similar navbar that I used on a different assignment. This navbar uses active properties to the add lines when hovering over. The navbar has multiple parts that I followed a codepen for, but it has an active selector and uses the ```::before``` and ```::after``` pseudo-code elements to also program different actions at different times. 
 The ```::before``` element is used to code the state of the navbar before it is interacted with while the ```::after``` elements is used after interacting.   \
 ex. ```div.topBotomBordersOut a:before, div.topBotomBordersOut a:after{```  \
-It also uses the transform property to show how far off of the x-axis the lines are going. 
-ex. ```transform: translateY(10px);```
-I used this element in tandom with the transition property to make sure it would transition the lines seemly. 
-ex.```transition: all 0.3s;```
-After this, and changing the opacity, and making sure the header was correctly working, I was done!
+It also uses the transform property to show how far off of the x-axis the lines are going.  \
+ex. ```transform: translateY(10px);```  \
+I used this element in tandom with the transition property to make sure it would transition the lines seemly.  \
+ex.```transition: all 0.3s;```  \
+After this, and changing the opacity, and making sure the header was correctly working, I was done!  
 
 ### Background Images
 During the assignment I also tried using a background image for one of my headers. I was a bit of challenge to find an image that would be the correct size, but I finally got. I also used the property ```background-repeat: no-repeat;``` to make sure it only should the image once. I also struggled a bit with linked my photo, but because the image was in a folder cause 'images' right in side the root, I can to solution that ```background-image: url('../images/animalcrossingbanner2.jpg');``` would work, and it does!
