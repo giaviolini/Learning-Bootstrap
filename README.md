@@ -22,4 +22,4 @@ After this, changing the opacity, and making sure the header was correctly worki
 ### Background Images
 During the assignment I also tried using a background image for one of my headers. I was a bit of challenge to find an image that would be the correct size, but I finally got. I also used the property ```background-repeat: no-repeat;``` to make sure it only should the image once. I also struggled a bit with linked my photo, but because the image was in a folder cause 'images' right in side the root, I can to solution that ```background-image: url('../images/animalcrossingbanner2.jpg');``` would work, and it does!
 
-[Visit Site Here]([https://giaviolini.github.io/Learning-Bootstrap/)
+[Visit site here](https://giaviolini.github.io/Learning-Bootstrap/)
