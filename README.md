@@ -1,5 +1,5 @@
 # Bootstrap
-##What I learned/practiced: 
+## What I learned/practiced: 
 The purpose of this assignment was to create a website using Bootstrap. I learned many things, mostly the fact that I will try to stay as far away from Bootstrap as I possibly can, but also that it has some helpful techniques once you can understand them.
 
 ### Displays
