@@ -3,7 +3,7 @@
 The purpose of this assignment was to create a website using Bootstrap. I learned many things, mostly the fact that I will try to stay as far away from Bootstrap as I possibly can, but also that it has some helpful techniques once you can understand them.
 
 ### Column Setup
-Instead of being able to use CSS ```display: grid;```, with Bootstrap you use the syntax provided by the framework. Different columns have set parameters for their size. For example, I wanted a row of three columns so I created a ```div``` and used ```class col-4```, ```<div class="col-4">```. This allowed for four columns to span the width of the page. The [Bootstrap website](https://getbootstrap.com/docs/4.0/layout/grid/) has many helpful articles when it comes to understanding the specific columns you will want to use.
+Instead of being able to use CSS ```display: grid;```, with Bootstrap you use the syntax provided by the framework. Different columns have set parameters for their size based on 12 columns. For example, I wanted a row of three columns so I created a ```div```, added a row, and used ```class col-4```, ```<div class="col-4">```. This allows for three columns to span the width of the page (3 columns divided by 12 columns = col-4). The [Bootstrap website](https://getbootstrap.com/docs/4.0/layout/grid/) has many helpful articles when it comes to understanding the specific columns you will want to use.
 
 After figuring that out and getting it set up, I used similar techniques and formatting for the columns as I would in ```display: grid;```. It was the only part of Bootstrap that I used as I prefer to create the CSS myself. I found Bootstrap too restrictive to achieve the design I wanted.
 
